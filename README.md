@@ -45,6 +45,3 @@ Scripts were written and run on Spyder.
 ## Acknowledgments
 
 Majority of code was written by Scott Zeng, with initial foundation for data extraction and correlation analysis written by Emily Lo, in the Torii Lab. Primary contact on the corresponding paper is Keiko Torii.
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
