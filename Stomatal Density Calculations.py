@@ -219,7 +219,9 @@ for i in range(0,len(directory)):
         
     #Calculate the total area of the cotyledon for virtual sectors,
     #accounting for potential overlap due to the extended ranges
-    #by defining the Union of the polygons
+    #by defining the Union of the sector polygons.
+    
+    #Then eliminate any extension beyond the cotyledon by finding the intersection of the cotyledon and the cascaded union of sectors.
 
     polygon_list.append(shg.Polygon(cotyledon_points));   
     
